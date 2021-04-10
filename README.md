@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a note taking application that uses Express.js and is deployed to Heroku. You can write and save notes to local storage.
+memopad is a note taking application that uses Express backend and is deployed to Heroku. All notes are saved and retrieved from a JSON file.
 
 
 ## Installation
@@ -12,17 +12,32 @@ Type the following into your terminal to copy this repository:
 
 `git clone git@github.com:twohunters/memopad.git`
 
-Run `server.js` in a Command Prompt or your Terminal
+Run `npm i` to install the necessary dependencies, and then `node server.js` to run the application.
+
+Enter `http://localhost:3000/` in your web browser address bar.
 
 
 ## Usage
 
-text and examples goes here
+Visit the deployed project [here](https://tranquil-ocean-24138.herokuapp.com/). 
+
+Example images go here
 
 
 ## Credits
 
-https://github.com/twohunters
+[Jason Anderson](https://github.com/twohunters)
+
+
+## Technology
+
+[Express.js](https://expressjs.com/)
+
+[Node.js](https://nodejs.org/en/)
+
+[uuid](https://www.npmjs.com/package/uuid)
+
+[Bootstrap](https://getbootstrap.com/)
 
 
 ## License

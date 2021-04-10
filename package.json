@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "express.js": "^1.0.0"
+    "express.js": "^1.0.0",
+    "uuidv4": "^6.2.7"
   },
   "repository": {
     "type": "git",

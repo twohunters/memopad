@@ -1,2 +1,2 @@
-// get and post requests
+// get and post and DELETE requests
 // json junk
