@@ -19,9 +19,9 @@ Enter `http://localhost:3000/` in your web browser address bar.
 
 ## Usage
 
-Visit the deployed project [here](https://tranquil-ocean-24138.herokuapp.com/). 
+![Deployed](./assets/images/deployed.PNG)
 
-Example images go here
+Visit the deployed project [here](https://tranquil-ocean-24138.herokuapp.com/).
 
 
 ## Credits
