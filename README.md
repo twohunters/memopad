@@ -19,7 +19,7 @@ Enter `http://localhost:3000/` in your web browser address bar.
 
 ## Usage
 
-![Deployed](./assets/images/deployed.PNG)
+![Deployed](./assets/images/deployed.png)
 
 Visit the deployed project [here](https://tranquil-ocean-24138.herokuapp.com/).
 
